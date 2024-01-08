@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "40_2024030094_黄文帝_多线程网段扫描练习", "Proj1\40_2024030094_黄文帝_多线程网段扫描练习.csproj", "{B3F98867-25E8-4845-81E2-75401816288D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3F98867-25E8-4845-81E2-75401816288D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3F98867-25E8-4845-81E2-75401816288D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3F98867-25E8-4845-81E2-75401816288D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3F98867-25E8-4845-81E2-75401816288D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB2BEA50-4007-484C-8DB5-853A633A767C}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,19 @@
+﻿<Window x:Class="ChatClient.TaskClientWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="TaskClientWindow" Height="300" Width="350">
+    <DockPanel Background="#FFEEF5F5">
+        <StackPanel DockPanel.Dock="Top" Orientation="Horizontal" Margin="5">
+            <Label Content="用户名："/>
+            <TextBox Name="textBoxUserName" Width="100"/>
+            <Button Name="btnLogin" Content="登录" Width="60" Margin="10 0 10 0" Click="btnLogin_Click"/>
+        </StackPanel>
+        <DockPanel DockPanel.Dock="Bottom" Margin="5">
+            <Button Name="btnSend" DockPanel.Dock="Right" Content="发送" Width="60" Margin="5 0 5 0" Click="btnSend_Click"/>
+            <TextBox Name="textBoxSend" />
+        </DockPanel>
+        <GroupBox Header="收发信息">
+            <TextBlock Name="textBlock1" Background="White"/>
+        </GroupBox>
+    </DockPanel>
+</Window>

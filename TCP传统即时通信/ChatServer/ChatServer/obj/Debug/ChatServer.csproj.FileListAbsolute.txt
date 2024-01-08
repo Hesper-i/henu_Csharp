@@ -1,0 +1,159 @@
+E:\V3Network\V3Source\ch09\ChatServer\ChatServer\bin\Debug\ChatServer.exe.config
+E:\V3Network\V3Source\ch09\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+E:\V3Network\V3Source\ch09\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+E:\V3Network\V3Source\ch09\ChatServer\ChatServer\obj\Debug\ChatServer.csprojResolveAssemblyReference.cache
+E:\V3Network\V3Source\ch09\ChatServer\ChatServer\obj\Debug\MainWindow.baml
+E:\V3Network\V3Source\ch09\ChatServer\ChatServer\obj\Debug\MainWindow.g.cs
+E:\V3Network\V3Source\ch09\ChatServer\ChatServer\obj\Debug\App.g.cs
+E:\V3Network\V3Source\ch09\ChatServer\ChatServer\obj\Debug\ChatServer_MarkupCompile.cache
+E:\V3Network\V3Source\ch09\ChatServer\ChatServer\obj\Debug\ChatServer.g.resources
+E:\V3Network\V3Source\ch09\ChatServer\ChatServer\obj\Debug\ChatServer.Properties.Resources.resources
+E:\V3Network\V3Source\ch09\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.GenerateResource.Cache
+E:\V3Network\V3Source\ch09\ChatServer\ChatServer\obj\Debug\ChatServer.exe
+E:\V3Network\V3Source\ch09\ChatServer\ChatServer\obj\Debug\ChatServer.pdb
+E:\V3Network\V3Source\ch09\ChatServer\ChatServer\obj\Debug\TaskServer.baml
+E:\V3Network\V3Source\ch09\ChatServer\ChatServer\obj\Debug\ThreadServer.baml
+E:\V3Network\V3Source\ch09\ChatServer\ChatServer\obj\Debug\TaskServer.g.cs
+E:\V3Network\V3Source\ch09\ChatServer\ChatServer\obj\Debug\ThreadServer.g.cs
+E:\V3Network\V3Source\ch09\Chat\ChatServer\ChatServer\bin\Debug\ChatServer.exe.config
+E:\V3Network\V3Source\ch09\Chat\ChatServer\ChatServer\obj\Debug\ChatServer.exe
+E:\V3Network\V3Source\ch09\Chat\ChatServer\ChatServer\obj\Debug\ChatServer.pdb
+E:\V3Network\V3Source\ch09\Chat\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+E:\V3Network\V3Source\ch09\Chat\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+E:\V3Network\V3Source\ch09\Chat\ChatServer\ChatServer\obj\Debug\ChatServer.csprojResolveAssemblyReference.cache
+E:\V3Network\V3Source\ch09\Chat\ChatServer\ChatServer\obj\Debug\MainWindow.baml
+E:\V3Network\V3Source\ch09\Chat\ChatServer\ChatServer\obj\Debug\TaskServer.baml
+E:\V3Network\V3Source\ch09\Chat\ChatServer\ChatServer\obj\Debug\ThreadServer.baml
+E:\V3Network\V3Source\ch09\Chat\ChatServer\ChatServer\obj\Debug\MainWindow.g.cs
+E:\V3Network\V3Source\ch09\Chat\ChatServer\ChatServer\obj\Debug\TaskServer.g.cs
+E:\V3Network\V3Source\ch09\Chat\ChatServer\ChatServer\obj\Debug\ThreadServer.g.cs
+E:\V3Network\V3Source\ch09\Chat\ChatServer\ChatServer\obj\Debug\App.g.cs
+E:\V3Network\V3Source\ch09\Chat\ChatServer\ChatServer\obj\Debug\ChatServer_MarkupCompile.cache
+E:\V3Network\V3Source\ch09\Chat\ChatServer\ChatServer\obj\Debug\ChatServer.g.resources
+E:\V3Network\V3Source\ch09\Chat\ChatServer\ChatServer\obj\Debug\ChatServer.Properties.Resources.resources
+E:\V3Network\V3Source\ch09\Chat\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.GenerateResource.Cache
+E:\5-书籍编写\06-C#网络应用编程（第3版）\1-原始稿件\V3Source\ch09\Chat\ChatServer\ChatServer\bin\Debug\ChatServer.exe.config
+E:\5-书籍编写\06-C#网络应用编程（第3版）\1-原始稿件\V3Source\ch09\Chat\ChatServer\ChatServer\obj\Debug\ChatServer.exe
+E:\5-书籍编写\06-C#网络应用编程（第3版）\1-原始稿件\V3Source\ch09\Chat\ChatServer\ChatServer\obj\Debug\ChatServer.pdb
+E:\5-书籍编写\06-C#网络应用编程（第3版）\1-原始稿件\V3Source\ch09\Chat\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+E:\5-书籍编写\06-C#网络应用编程（第3版）\1-原始稿件\V3Source\ch09\Chat\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+E:\5-书籍编写\06-C#网络应用编程（第3版）\1-原始稿件\V3Source\ch09\Chat\ChatServer\ChatServer\obj\Debug\ChatServer.csprojResolveAssemblyReference.cache
+E:\5-书籍编写\06-C#网络应用编程（第3版）\1-原始稿件\V3Source\ch09\Chat\ChatServer\ChatServer\obj\Debug\MainWindow.baml
+E:\5-书籍编写\06-C#网络应用编程（第3版）\1-原始稿件\V3Source\ch09\Chat\ChatServer\ChatServer\obj\Debug\TaskServer.baml
+E:\5-书籍编写\06-C#网络应用编程（第3版）\1-原始稿件\V3Source\ch09\Chat\ChatServer\ChatServer\obj\Debug\ThreadServer.baml
+E:\5-书籍编写\06-C#网络应用编程（第3版）\1-原始稿件\V3Source\ch09\Chat\ChatServer\ChatServer\obj\Debug\MainWindow.g.cs
+E:\5-书籍编写\06-C#网络应用编程（第3版）\1-原始稿件\V3Source\ch09\Chat\ChatServer\ChatServer\obj\Debug\TaskServer.g.cs
+E:\5-书籍编写\06-C#网络应用编程（第3版）\1-原始稿件\V3Source\ch09\Chat\ChatServer\ChatServer\obj\Debug\ThreadServer.g.cs
+E:\5-书籍编写\06-C#网络应用编程（第3版）\1-原始稿件\V3Source\ch09\Chat\ChatServer\ChatServer\obj\Debug\App.g.cs
+E:\5-书籍编写\06-C#网络应用编程（第3版）\1-原始稿件\V3Source\ch09\Chat\ChatServer\ChatServer\obj\Debug\ChatServer_MarkupCompile.cache
+E:\5-书籍编写\06-C#网络应用编程（第3版）\1-原始稿件\V3Source\ch09\Chat\ChatServer\ChatServer\obj\Debug\ChatServer.g.resources
+E:\5-书籍编写\06-C#网络应用编程（第3版）\1-原始稿件\V3Source\ch09\Chat\ChatServer\ChatServer\obj\Debug\ChatServer.Properties.Resources.resources
+E:\5-书籍编写\06-C#网络应用编程（第3版）\1-原始稿件\V3Source\ch09\Chat\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.GenerateResource.Cache
+E:\课程\C#高级编程\05.源程序\V3Source-S\ch09\Chat\ChatServer\ChatServer\bin\Debug\ChatServer.exe.config
+E:\课程\C#高级编程\05.源程序\V3Source-S\ch09\Chat\ChatServer\ChatServer\obj\Debug\ChatServer.exe
+E:\课程\C#高级编程\05.源程序\V3Source-S\ch09\Chat\ChatServer\ChatServer\obj\Debug\ChatServer.pdb
+E:\课程\C#高级编程\05.源程序\V3Source-S\ch09\Chat\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+E:\课程\C#高级编程\05.源程序\V3Source-S\ch09\Chat\ChatServer\ChatServer\obj\Debug\ChatServer.csprojResolveAssemblyReference.cache
+E:\课程\C#高级编程\05.源程序\V3Source-S\ch09\Chat\ChatServer\ChatServer\obj\Debug\MainWindow.baml
+E:\课程\C#高级编程\05.源程序\V3Source-S\ch09\Chat\ChatServer\ChatServer\obj\Debug\TaskServer.baml
+E:\课程\C#高级编程\05.源程序\V3Source-S\ch09\Chat\ChatServer\ChatServer\obj\Debug\ThreadServer.baml
+E:\课程\C#高级编程\05.源程序\V3Source-S\ch09\Chat\ChatServer\ChatServer\obj\Debug\MainWindow.g.cs
+E:\课程\C#高级编程\05.源程序\V3Source-S\ch09\Chat\ChatServer\ChatServer\obj\Debug\TaskServer.g.cs
+E:\课程\C#高级编程\05.源程序\V3Source-S\ch09\Chat\ChatServer\ChatServer\obj\Debug\ThreadServer.g.cs
+E:\课程\C#高级编程\05.源程序\V3Source-S\ch09\Chat\ChatServer\ChatServer\obj\Debug\App.g.cs
+E:\课程\C#高级编程\05.源程序\V3Source-S\ch09\Chat\ChatServer\ChatServer\obj\Debug\ChatServer_MarkupCompile.cache
+E:\课程\C#高级编程\05.源程序\V3Source-S\ch09\Chat\ChatServer\ChatServer\obj\Debug\ChatServer.g.resources
+E:\课程\C#高级编程\05.源程序\V3Source-S\ch09\Chat\ChatServer\ChatServer\obj\Debug\ChatServer.Properties.Resources.resources
+E:\课程\C#高级编程\05.源程序\V3Source-S\ch09\Chat\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.GenerateResource.Cache
+E:\课程\C#高级编程\05.源程序\V3Source-S\ch09\Chat\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+C:\工作\教学\C#高级编程\05.源程序\V3Source-S\ch09\Chat\ChatServer\ChatServer\bin\Debug\ChatServer.exe.config
+C:\工作\教学\C#高级编程\05.源程序\V3Source-S\ch09\Chat\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+C:\工作\教学\C#高级编程\05.源程序\V3Source-S\ch09\Chat\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+C:\工作\教学\C#高级编程\05.源程序\V3Source-S\ch09\Chat\ChatServer\ChatServer\obj\Debug\ChatServer.csprojAssemblyReference.cache
+C:\工作\教学\C#高级编程\05.源程序\V3Source-S\ch09\Chat\ChatServer\ChatServer\obj\Debug\MainWindow.baml
+C:\工作\教学\C#高级编程\05.源程序\V3Source-S\ch09\Chat\ChatServer\ChatServer\obj\Debug\TaskServer.baml
+C:\工作\教学\C#高级编程\05.源程序\V3Source-S\ch09\Chat\ChatServer\ChatServer\obj\Debug\ThreadServer.baml
+C:\工作\教学\C#高级编程\05.源程序\V3Source-S\ch09\Chat\ChatServer\ChatServer\obj\Debug\MainWindow.g.cs
+C:\工作\教学\C#高级编程\05.源程序\V3Source-S\ch09\Chat\ChatServer\ChatServer\obj\Debug\TaskServer.g.cs
+C:\工作\教学\C#高级编程\05.源程序\V3Source-S\ch09\Chat\ChatServer\ChatServer\obj\Debug\ThreadServer.g.cs
+C:\工作\教学\C#高级编程\05.源程序\V3Source-S\ch09\Chat\ChatServer\ChatServer\obj\Debug\App.g.cs
+C:\工作\教学\C#高级编程\05.源程序\V3Source-S\ch09\Chat\ChatServer\ChatServer\obj\Debug\ChatServer_MarkupCompile.cache
+C:\工作\教学\C#高级编程\05.源程序\V3Source-S\ch09\Chat\ChatServer\ChatServer\obj\Debug\ChatServer.g.resources
+C:\工作\教学\C#高级编程\05.源程序\V3Source-S\ch09\Chat\ChatServer\ChatServer\obj\Debug\ChatServer.Properties.Resources.resources
+C:\工作\教学\C#高级编程\05.源程序\V3Source-S\ch09\Chat\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.GenerateResource.cache
+C:\工作\教学\C#高级编程\05.源程序\V3Source-S\ch09\Chat\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.CoreCompileInputs.cache
+C:\工作\教学\C#高级编程\05.源程序\V3Source-S\ch09\Chat\ChatServer\ChatServer\obj\Debug\ChatServer.exe
+C:\工作\教学\C#高级编程\05.源程序\V3Source-S\ch09\Chat\ChatServer\ChatServer\obj\Debug\ChatServer.pdb
+C:\Users\ASUS\Desktop\课程\大四上\网络应用编程\实验十-聊天室\Chat\ChatServer\ChatServer\bin\Debug\ChatServer.exe.config
+C:\Users\ASUS\Desktop\课程\大四上\网络应用编程\实验十-聊天室\Chat\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+C:\Users\ASUS\Desktop\课程\大四上\网络应用编程\实验十-聊天室\Chat\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+C:\Users\ASUS\Desktop\课程\大四上\网络应用编程\实验十-聊天室\Chat\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\课程\大四上\网络应用编程\实验十-聊天室\Chat\ChatServer\ChatServer\obj\Debug\MainWindow.baml
+C:\Users\ASUS\Desktop\课程\大四上\网络应用编程\实验十-聊天室\Chat\ChatServer\ChatServer\obj\Debug\TaskServer.baml
+C:\Users\ASUS\Desktop\课程\大四上\网络应用编程\实验十-聊天室\Chat\ChatServer\ChatServer\obj\Debug\ThreadServer.baml
+C:\Users\ASUS\Desktop\课程\大四上\网络应用编程\实验十-聊天室\Chat\ChatServer\ChatServer\obj\Debug\MainWindow.g.cs
+C:\Users\ASUS\Desktop\课程\大四上\网络应用编程\实验十-聊天室\Chat\ChatServer\ChatServer\obj\Debug\TaskServer.g.cs
+C:\Users\ASUS\Desktop\课程\大四上\网络应用编程\实验十-聊天室\Chat\ChatServer\ChatServer\obj\Debug\ThreadServer.g.cs
+C:\Users\ASUS\Desktop\课程\大四上\网络应用编程\实验十-聊天室\Chat\ChatServer\ChatServer\obj\Debug\App.g.cs
+C:\Users\ASUS\Desktop\课程\大四上\网络应用编程\实验十-聊天室\Chat\ChatServer\ChatServer\obj\Debug\ChatServer_MarkupCompile.cache
+C:\Users\ASUS\Desktop\课程\大四上\网络应用编程\实验十-聊天室\Chat\ChatServer\ChatServer\obj\Debug\ChatServer.g.resources
+C:\Users\ASUS\Desktop\课程\大四上\网络应用编程\实验十-聊天室\Chat\ChatServer\ChatServer\obj\Debug\ChatServer.Properties.Resources.resources
+C:\Users\ASUS\Desktop\课程\大四上\网络应用编程\实验十-聊天室\Chat\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\课程\大四上\网络应用编程\实验十-聊天室\Chat\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\课程\大四上\网络应用编程\实验十-聊天室\Chat\ChatServer\ChatServer\obj\Debug\ChatServer.exe
+C:\Users\ASUS\Desktop\课程\大四上\网络应用编程\实验十-聊天室\Chat\ChatServer\ChatServer\obj\Debug\ChatServer.pdb
+C:\Users\心\Desktop\新建文件夹 (2)\Chat\ChatServer\ChatServer\bin\Debug\ChatServer.exe.config
+C:\Users\心\Desktop\新建文件夹 (2)\Chat\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+C:\Users\心\Desktop\新建文件夹 (2)\Chat\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+C:\Users\心\Desktop\新建文件夹 (2)\Chat\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.AssemblyReference.cache
+C:\Users\心\Desktop\新建文件夹 (2)\Chat\ChatServer\ChatServer\obj\Debug\MainWindow.baml
+C:\Users\心\Desktop\新建文件夹 (2)\Chat\ChatServer\ChatServer\obj\Debug\TaskServer.baml
+C:\Users\心\Desktop\新建文件夹 (2)\Chat\ChatServer\ChatServer\obj\Debug\ThreadServer.baml
+C:\Users\心\Desktop\新建文件夹 (2)\Chat\ChatServer\ChatServer\obj\Debug\MainWindow.g.cs
+C:\Users\心\Desktop\新建文件夹 (2)\Chat\ChatServer\ChatServer\obj\Debug\TaskServer.g.cs
+C:\Users\心\Desktop\新建文件夹 (2)\Chat\ChatServer\ChatServer\obj\Debug\ThreadServer.g.cs
+C:\Users\心\Desktop\新建文件夹 (2)\Chat\ChatServer\ChatServer\obj\Debug\App.g.cs
+C:\Users\心\Desktop\新建文件夹 (2)\Chat\ChatServer\ChatServer\obj\Debug\ChatServer_MarkupCompile.cache
+C:\Users\心\Desktop\新建文件夹 (2)\Chat\ChatServer\ChatServer\obj\Debug\ChatServer.g.resources
+C:\Users\心\Desktop\新建文件夹 (2)\Chat\ChatServer\ChatServer\obj\Debug\ChatServer.Properties.Resources.resources
+C:\Users\心\Desktop\新建文件夹 (2)\Chat\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.GenerateResource.cache
+C:\Users\心\Desktop\新建文件夹 (2)\Chat\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.CoreCompileInputs.cache
+C:\Users\心\Desktop\新建文件夹 (2)\Chat\ChatServer\ChatServer\obj\Debug\ChatServer.exe
+C:\Users\心\Desktop\新建文件夹 (2)\Chat\ChatServer\ChatServer\obj\Debug\ChatServer.pdb
+D:\C#网络应用编程\ChatServer\ChatServer\bin\Debug\ChatServer.exe.config
+D:\C#网络应用编程\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+D:\C#网络应用编程\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+D:\C#网络应用编程\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.AssemblyReference.cache
+D:\C#网络应用编程\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.SuggestedBindingRedirects.cache
+D:\C#网络应用编程\ChatServer\ChatServer\obj\Debug\MainWindow.baml
+D:\C#网络应用编程\ChatServer\ChatServer\obj\Debug\TaskServer.baml
+D:\C#网络应用编程\ChatServer\ChatServer\obj\Debug\ThreadServer.baml
+D:\C#网络应用编程\ChatServer\ChatServer\obj\Debug\MainWindow.g.cs
+D:\C#网络应用编程\ChatServer\ChatServer\obj\Debug\TaskServer.g.cs
+D:\C#网络应用编程\ChatServer\ChatServer\obj\Debug\ThreadServer.g.cs
+D:\C#网络应用编程\ChatServer\ChatServer\obj\Debug\App.g.cs
+D:\C#网络应用编程\ChatServer\ChatServer\obj\Debug\ChatServer_MarkupCompile.cache
+D:\C#网络应用编程\ChatServer\ChatServer\obj\Debug\ChatServer.g.resources
+D:\C#网络应用编程\ChatServer\ChatServer\obj\Debug\ChatServer.Properties.Resources.resources
+D:\C#网络应用编程\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.GenerateResource.cache
+D:\C#网络应用编程\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.CoreCompileInputs.cache
+D:\C#网络应用编程\ChatServer\ChatServer\obj\Debug\ChatServer.exe
+D:\C#网络应用编程\ChatServer\ChatServer\obj\Debug\ChatServer.pdb
+E:\1上课\大四\聊天室\ChatServer\ChatServer\bin\Debug\ChatServer.exe.config
+E:\1上课\大四\聊天室\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+E:\1上课\大四\聊天室\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+E:\1上课\大四\聊天室\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.AssemblyReference.cache
+E:\1上课\大四\聊天室\ChatServer\ChatServer\obj\Debug\MainWindow.baml
+E:\1上课\大四\聊天室\ChatServer\ChatServer\obj\Debug\TaskServer.baml
+E:\1上课\大四\聊天室\ChatServer\ChatServer\obj\Debug\ThreadServer.baml
+E:\1上课\大四\聊天室\ChatServer\ChatServer\obj\Debug\MainWindow.g.cs
+E:\1上课\大四\聊天室\ChatServer\ChatServer\obj\Debug\TaskServer.g.cs
+E:\1上课\大四\聊天室\ChatServer\ChatServer\obj\Debug\ThreadServer.g.cs
+E:\1上课\大四\聊天室\ChatServer\ChatServer\obj\Debug\App.g.cs
+E:\1上课\大四\聊天室\ChatServer\ChatServer\obj\Debug\ChatServer_MarkupCompile.cache
+E:\1上课\大四\聊天室\ChatServer\ChatServer\obj\Debug\ChatServer.g.resources
+E:\1上课\大四\聊天室\ChatServer\ChatServer\obj\Debug\ChatServer.Properties.Resources.resources
+E:\1上课\大四\聊天室\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.GenerateResource.cache
+E:\1上课\大四\聊天室\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.CoreCompileInputs.cache
+E:\1上课\大四\聊天室\ChatServer\ChatServer\obj\Debug\ChatServer.exe
+E:\1上课\大四\聊天室\ChatServer\ChatServer\obj\Debug\ChatServer.pdb

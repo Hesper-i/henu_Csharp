@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="8c483f6c-4fc4-427c-af94-ae9ab993cb5f" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:55234/GobangService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="GobangService.wsdl" MetadataType="Wsdl" ID="ebb116bf-60a8-4770-b310-625ea305f29d" SourceId="1" SourceUrl="http://localhost:55234/GobangService.svc?wsdl" />
+    <MetadataFile FileName="GobangService.disco" MetadataType="Disco" ID="56a88189-0e71-4ceb-b7d3-be44dd1af5dd" SourceId="1" SourceUrl="http://localhost:55234/GobangService.svc?disco" />
+    <MetadataFile FileName="GobangService3.xsd" MetadataType="Schema" ID="bd67ed8a-7266-4365-8797-96f191948424" SourceId="1" SourceUrl="http://localhost:55234/GobangService.svc?xsd=xsd2" />
+    <MetadataFile FileName="GobangService1.xsd" MetadataType="Schema" ID="7af78316-db8a-4838-98e9-22e4c848c399" SourceId="1" SourceUrl="http://localhost:55234/GobangService.svc?xsd=xsd0" />
+    <MetadataFile FileName="GobangService.xsd" MetadataType="Schema" ID="c3a526b8-8638-4708-b325-9fc078a6e051" SourceId="1" SourceUrl="http://localhost:55234/GobangService.svc?xsd=xsd1" />
+    <MetadataFile FileName="GobangService1.wsdl" MetadataType="Wsdl" ID="5e51a586-c7da-4490-ab70-f637a5a845fa" SourceId="1" SourceUrl="http://localhost:55234/GobangService.svc?wsdl=wsdl0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

@@ -1,0 +1,159 @@
+E:\V3Network\V3Source\ch09\ChatClient\ChatClient\bin\Debug\ChatClient.exe.config
+E:\V3Network\V3Source\ch09\ChatClient\ChatClient\bin\Debug\ChatClient.exe
+E:\V3Network\V3Source\ch09\ChatClient\ChatClient\bin\Debug\ChatClient.pdb
+E:\V3Network\V3Source\ch09\ChatClient\ChatClient\obj\Debug\MainWindow.baml
+E:\V3Network\V3Source\ch09\ChatClient\ChatClient\obj\Debug\MainWindow.g.cs
+E:\V3Network\V3Source\ch09\ChatClient\ChatClient\obj\Debug\App.g.cs
+E:\V3Network\V3Source\ch09\ChatClient\ChatClient\obj\Debug\ChatClient_MarkupCompile.cache
+E:\V3Network\V3Source\ch09\ChatClient\ChatClient\obj\Debug\ChatClient.g.resources
+E:\V3Network\V3Source\ch09\ChatClient\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+E:\V3Network\V3Source\ch09\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.Cache
+E:\V3Network\V3Source\ch09\ChatClient\ChatClient\obj\Debug\ChatClient.exe
+E:\V3Network\V3Source\ch09\ChatClient\ChatClient\obj\Debug\ChatClient.pdb
+E:\V3Network\V3Source\ch09\ChatClient\ChatClient\obj\Debug\ChatClient.csprojResolveAssemblyReference.cache
+E:\V3Network\V3Source\ch09\ChatClient\ChatClient\obj\Debug\TaskClientWindow.baml
+E:\V3Network\V3Source\ch09\ChatClient\ChatClient\obj\Debug\ThreadClientWindow.baml
+E:\V3Network\V3Source\ch09\ChatClient\ChatClient\obj\Debug\TaskClientWindow.g.cs
+E:\V3Network\V3Source\ch09\ChatClient\ChatClient\obj\Debug\ThreadClientWindow.g.cs
+E:\V3Network\V3Source\ch09\Chat\ChatClient\ChatClient\bin\Debug\ChatClient.exe.config
+E:\V3Network\V3Source\ch09\Chat\ChatClient\ChatClient\obj\Debug\ChatClient.exe
+E:\V3Network\V3Source\ch09\Chat\ChatClient\ChatClient\obj\Debug\ChatClient.pdb
+E:\V3Network\V3Source\ch09\Chat\ChatClient\ChatClient\bin\Debug\ChatClient.exe
+E:\V3Network\V3Source\ch09\Chat\ChatClient\ChatClient\bin\Debug\ChatClient.pdb
+E:\V3Network\V3Source\ch09\Chat\ChatClient\ChatClient\obj\Debug\ChatClient.csprojResolveAssemblyReference.cache
+E:\V3Network\V3Source\ch09\Chat\ChatClient\ChatClient\obj\Debug\TaskClientWindow.baml
+E:\V3Network\V3Source\ch09\Chat\ChatClient\ChatClient\obj\Debug\ThreadClientWindow.baml
+E:\V3Network\V3Source\ch09\Chat\ChatClient\ChatClient\obj\Debug\MainWindow.baml
+E:\V3Network\V3Source\ch09\Chat\ChatClient\ChatClient\obj\Debug\TaskClientWindow.g.cs
+E:\V3Network\V3Source\ch09\Chat\ChatClient\ChatClient\obj\Debug\ThreadClientWindow.g.cs
+E:\V3Network\V3Source\ch09\Chat\ChatClient\ChatClient\obj\Debug\MainWindow.g.cs
+E:\V3Network\V3Source\ch09\Chat\ChatClient\ChatClient\obj\Debug\App.g.cs
+E:\V3Network\V3Source\ch09\Chat\ChatClient\ChatClient\obj\Debug\ChatClient_MarkupCompile.cache
+E:\V3Network\V3Source\ch09\Chat\ChatClient\ChatClient\obj\Debug\ChatClient.g.resources
+E:\V3Network\V3Source\ch09\Chat\ChatClient\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+E:\V3Network\V3Source\ch09\Chat\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.Cache
+E:\5-书籍编写\06-C#网络应用编程（第3版）\1-原始稿件\V3Source\ch09\Chat\ChatClient\ChatClient\bin\Debug\ChatClient.exe.config
+E:\5-书籍编写\06-C#网络应用编程（第3版）\1-原始稿件\V3Source\ch09\Chat\ChatClient\ChatClient\bin\Debug\ChatClient.exe
+E:\5-书籍编写\06-C#网络应用编程（第3版）\1-原始稿件\V3Source\ch09\Chat\ChatClient\ChatClient\bin\Debug\ChatClient.pdb
+E:\5-书籍编写\06-C#网络应用编程（第3版）\1-原始稿件\V3Source\ch09\Chat\ChatClient\ChatClient\obj\Debug\ChatClient.csprojResolveAssemblyReference.cache
+E:\5-书籍编写\06-C#网络应用编程（第3版）\1-原始稿件\V3Source\ch09\Chat\ChatClient\ChatClient\obj\Debug\TaskClientWindow.baml
+E:\5-书籍编写\06-C#网络应用编程（第3版）\1-原始稿件\V3Source\ch09\Chat\ChatClient\ChatClient\obj\Debug\ThreadClientWindow.baml
+E:\5-书籍编写\06-C#网络应用编程（第3版）\1-原始稿件\V3Source\ch09\Chat\ChatClient\ChatClient\obj\Debug\MainWindow.baml
+E:\5-书籍编写\06-C#网络应用编程（第3版）\1-原始稿件\V3Source\ch09\Chat\ChatClient\ChatClient\obj\Debug\TaskClientWindow.g.cs
+E:\5-书籍编写\06-C#网络应用编程（第3版）\1-原始稿件\V3Source\ch09\Chat\ChatClient\ChatClient\obj\Debug\ThreadClientWindow.g.cs
+E:\5-书籍编写\06-C#网络应用编程（第3版）\1-原始稿件\V3Source\ch09\Chat\ChatClient\ChatClient\obj\Debug\MainWindow.g.cs
+E:\5-书籍编写\06-C#网络应用编程（第3版）\1-原始稿件\V3Source\ch09\Chat\ChatClient\ChatClient\obj\Debug\App.g.cs
+E:\5-书籍编写\06-C#网络应用编程（第3版）\1-原始稿件\V3Source\ch09\Chat\ChatClient\ChatClient\obj\Debug\ChatClient_MarkupCompile.cache
+E:\5-书籍编写\06-C#网络应用编程（第3版）\1-原始稿件\V3Source\ch09\Chat\ChatClient\ChatClient\obj\Debug\ChatClient.g.resources
+E:\5-书籍编写\06-C#网络应用编程（第3版）\1-原始稿件\V3Source\ch09\Chat\ChatClient\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+E:\5-书籍编写\06-C#网络应用编程（第3版）\1-原始稿件\V3Source\ch09\Chat\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.Cache
+E:\5-书籍编写\06-C#网络应用编程（第3版）\1-原始稿件\V3Source\ch09\Chat\ChatClient\ChatClient\obj\Debug\ChatClient.exe
+E:\5-书籍编写\06-C#网络应用编程（第3版）\1-原始稿件\V3Source\ch09\Chat\ChatClient\ChatClient\obj\Debug\ChatClient.pdb
+E:\课程\C#高级编程\05.源程序\V3Source-S\ch09\Chat\ChatClient\ChatClient\bin\Debug\ChatClient.exe.config
+E:\课程\C#高级编程\05.源程序\V3Source-S\ch09\Chat\ChatClient\ChatClient\bin\Debug\ChatClient.exe
+E:\课程\C#高级编程\05.源程序\V3Source-S\ch09\Chat\ChatClient\ChatClient\bin\Debug\ChatClient.pdb
+E:\课程\C#高级编程\05.源程序\V3Source-S\ch09\Chat\ChatClient\ChatClient\obj\Debug\ChatClient.csprojResolveAssemblyReference.cache
+E:\课程\C#高级编程\05.源程序\V3Source-S\ch09\Chat\ChatClient\ChatClient\obj\Debug\TaskClientWindow.baml
+E:\课程\C#高级编程\05.源程序\V3Source-S\ch09\Chat\ChatClient\ChatClient\obj\Debug\ThreadClientWindow.baml
+E:\课程\C#高级编程\05.源程序\V3Source-S\ch09\Chat\ChatClient\ChatClient\obj\Debug\MainWindow.baml
+E:\课程\C#高级编程\05.源程序\V3Source-S\ch09\Chat\ChatClient\ChatClient\obj\Debug\TaskClientWindow.g.cs
+E:\课程\C#高级编程\05.源程序\V3Source-S\ch09\Chat\ChatClient\ChatClient\obj\Debug\ThreadClientWindow.g.cs
+E:\课程\C#高级编程\05.源程序\V3Source-S\ch09\Chat\ChatClient\ChatClient\obj\Debug\MainWindow.g.cs
+E:\课程\C#高级编程\05.源程序\V3Source-S\ch09\Chat\ChatClient\ChatClient\obj\Debug\App.g.cs
+E:\课程\C#高级编程\05.源程序\V3Source-S\ch09\Chat\ChatClient\ChatClient\obj\Debug\ChatClient_MarkupCompile.cache
+E:\课程\C#高级编程\05.源程序\V3Source-S\ch09\Chat\ChatClient\ChatClient\obj\Debug\ChatClient.g.resources
+E:\课程\C#高级编程\05.源程序\V3Source-S\ch09\Chat\ChatClient\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+E:\课程\C#高级编程\05.源程序\V3Source-S\ch09\Chat\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.Cache
+E:\课程\C#高级编程\05.源程序\V3Source-S\ch09\Chat\ChatClient\ChatClient\obj\Debug\ChatClient.exe
+E:\课程\C#高级编程\05.源程序\V3Source-S\ch09\Chat\ChatClient\ChatClient\obj\Debug\ChatClient.pdb
+C:\工作\教学\C#高级编程\05.源程序\V3Source-S\ch09\Chat\ChatClient\ChatClient\bin\Debug\ChatClient.exe.config
+C:\工作\教学\C#高级编程\05.源程序\V3Source-S\ch09\Chat\ChatClient\ChatClient\bin\Debug\ChatClient.exe
+C:\工作\教学\C#高级编程\05.源程序\V3Source-S\ch09\Chat\ChatClient\ChatClient\bin\Debug\ChatClient.pdb
+C:\工作\教学\C#高级编程\05.源程序\V3Source-S\ch09\Chat\ChatClient\ChatClient\obj\Debug\ChatClient.csprojAssemblyReference.cache
+C:\工作\教学\C#高级编程\05.源程序\V3Source-S\ch09\Chat\ChatClient\ChatClient\obj\Debug\TaskClientWindow.baml
+C:\工作\教学\C#高级编程\05.源程序\V3Source-S\ch09\Chat\ChatClient\ChatClient\obj\Debug\ThreadClientWindow.baml
+C:\工作\教学\C#高级编程\05.源程序\V3Source-S\ch09\Chat\ChatClient\ChatClient\obj\Debug\MainWindow.baml
+C:\工作\教学\C#高级编程\05.源程序\V3Source-S\ch09\Chat\ChatClient\ChatClient\obj\Debug\TaskClientWindow.g.cs
+C:\工作\教学\C#高级编程\05.源程序\V3Source-S\ch09\Chat\ChatClient\ChatClient\obj\Debug\ThreadClientWindow.g.cs
+C:\工作\教学\C#高级编程\05.源程序\V3Source-S\ch09\Chat\ChatClient\ChatClient\obj\Debug\MainWindow.g.cs
+C:\工作\教学\C#高级编程\05.源程序\V3Source-S\ch09\Chat\ChatClient\ChatClient\obj\Debug\App.g.cs
+C:\工作\教学\C#高级编程\05.源程序\V3Source-S\ch09\Chat\ChatClient\ChatClient\obj\Debug\ChatClient_MarkupCompile.cache
+C:\工作\教学\C#高级编程\05.源程序\V3Source-S\ch09\Chat\ChatClient\ChatClient\obj\Debug\ChatClient.g.resources
+C:\工作\教学\C#高级编程\05.源程序\V3Source-S\ch09\Chat\ChatClient\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+C:\工作\教学\C#高级编程\05.源程序\V3Source-S\ch09\Chat\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.cache
+C:\工作\教学\C#高级编程\05.源程序\V3Source-S\ch09\Chat\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+C:\工作\教学\C#高级编程\05.源程序\V3Source-S\ch09\Chat\ChatClient\ChatClient\obj\Debug\ChatClient.exe
+C:\工作\教学\C#高级编程\05.源程序\V3Source-S\ch09\Chat\ChatClient\ChatClient\obj\Debug\ChatClient.pdb
+C:\Users\ASUS\Desktop\课程\大四上\网络应用编程\实验十-聊天室\Chat\ChatClient\ChatClient\bin\Debug\ChatClient.exe.config
+C:\Users\ASUS\Desktop\课程\大四上\网络应用编程\实验十-聊天室\Chat\ChatClient\ChatClient\bin\Debug\ChatClient.exe
+C:\Users\ASUS\Desktop\课程\大四上\网络应用编程\实验十-聊天室\Chat\ChatClient\ChatClient\bin\Debug\ChatClient.pdb
+C:\Users\ASUS\Desktop\课程\大四上\网络应用编程\实验十-聊天室\Chat\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\课程\大四上\网络应用编程\实验十-聊天室\Chat\ChatClient\ChatClient\obj\Debug\TaskClientWindow.baml
+C:\Users\ASUS\Desktop\课程\大四上\网络应用编程\实验十-聊天室\Chat\ChatClient\ChatClient\obj\Debug\ThreadClientWindow.baml
+C:\Users\ASUS\Desktop\课程\大四上\网络应用编程\实验十-聊天室\Chat\ChatClient\ChatClient\obj\Debug\MainWindow.baml
+C:\Users\ASUS\Desktop\课程\大四上\网络应用编程\实验十-聊天室\Chat\ChatClient\ChatClient\obj\Debug\TaskClientWindow.g.cs
+C:\Users\ASUS\Desktop\课程\大四上\网络应用编程\实验十-聊天室\Chat\ChatClient\ChatClient\obj\Debug\ThreadClientWindow.g.cs
+C:\Users\ASUS\Desktop\课程\大四上\网络应用编程\实验十-聊天室\Chat\ChatClient\ChatClient\obj\Debug\MainWindow.g.cs
+C:\Users\ASUS\Desktop\课程\大四上\网络应用编程\实验十-聊天室\Chat\ChatClient\ChatClient\obj\Debug\App.g.cs
+C:\Users\ASUS\Desktop\课程\大四上\网络应用编程\实验十-聊天室\Chat\ChatClient\ChatClient\obj\Debug\ChatClient_MarkupCompile.cache
+C:\Users\ASUS\Desktop\课程\大四上\网络应用编程\实验十-聊天室\Chat\ChatClient\ChatClient\obj\Debug\ChatClient.g.resources
+C:\Users\ASUS\Desktop\课程\大四上\网络应用编程\实验十-聊天室\Chat\ChatClient\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+C:\Users\ASUS\Desktop\课程\大四上\网络应用编程\实验十-聊天室\Chat\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\课程\大四上\网络应用编程\实验十-聊天室\Chat\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\课程\大四上\网络应用编程\实验十-聊天室\Chat\ChatClient\ChatClient\obj\Debug\ChatClient.exe
+C:\Users\ASUS\Desktop\课程\大四上\网络应用编程\实验十-聊天室\Chat\ChatClient\ChatClient\obj\Debug\ChatClient.pdb
+C:\Users\心\Desktop\新建文件夹 (2)\Chat\ChatClient\ChatClient\bin\Debug\ChatClient.exe.config
+C:\Users\心\Desktop\新建文件夹 (2)\Chat\ChatClient\ChatClient\bin\Debug\ChatClient.exe
+C:\Users\心\Desktop\新建文件夹 (2)\Chat\ChatClient\ChatClient\bin\Debug\ChatClient.pdb
+C:\Users\心\Desktop\新建文件夹 (2)\Chat\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.AssemblyReference.cache
+C:\Users\心\Desktop\新建文件夹 (2)\Chat\ChatClient\ChatClient\obj\Debug\TaskClientWindow.baml
+C:\Users\心\Desktop\新建文件夹 (2)\Chat\ChatClient\ChatClient\obj\Debug\ThreadClientWindow.baml
+C:\Users\心\Desktop\新建文件夹 (2)\Chat\ChatClient\ChatClient\obj\Debug\MainWindow.baml
+C:\Users\心\Desktop\新建文件夹 (2)\Chat\ChatClient\ChatClient\obj\Debug\TaskClientWindow.g.cs
+C:\Users\心\Desktop\新建文件夹 (2)\Chat\ChatClient\ChatClient\obj\Debug\ThreadClientWindow.g.cs
+C:\Users\心\Desktop\新建文件夹 (2)\Chat\ChatClient\ChatClient\obj\Debug\MainWindow.g.cs
+C:\Users\心\Desktop\新建文件夹 (2)\Chat\ChatClient\ChatClient\obj\Debug\App.g.cs
+C:\Users\心\Desktop\新建文件夹 (2)\Chat\ChatClient\ChatClient\obj\Debug\ChatClient_MarkupCompile.cache
+C:\Users\心\Desktop\新建文件夹 (2)\Chat\ChatClient\ChatClient\obj\Debug\ChatClient.g.resources
+C:\Users\心\Desktop\新建文件夹 (2)\Chat\ChatClient\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+C:\Users\心\Desktop\新建文件夹 (2)\Chat\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.cache
+C:\Users\心\Desktop\新建文件夹 (2)\Chat\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+C:\Users\心\Desktop\新建文件夹 (2)\Chat\ChatClient\ChatClient\obj\Debug\ChatClient.exe
+C:\Users\心\Desktop\新建文件夹 (2)\Chat\ChatClient\ChatClient\obj\Debug\ChatClient.pdb
+D:\C#网络应用编程\ChatClient\ChatClient\bin\Debug\ChatClient.exe.config
+D:\C#网络应用编程\ChatClient\ChatClient\bin\Debug\ChatClient.exe
+D:\C#网络应用编程\ChatClient\ChatClient\bin\Debug\ChatClient.pdb
+D:\C#网络应用编程\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.AssemblyReference.cache
+D:\C#网络应用编程\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.SuggestedBindingRedirects.cache
+D:\C#网络应用编程\ChatClient\ChatClient\obj\Debug\TaskClientWindow.baml
+D:\C#网络应用编程\ChatClient\ChatClient\obj\Debug\ThreadClientWindow.baml
+D:\C#网络应用编程\ChatClient\ChatClient\obj\Debug\MainWindow.baml
+D:\C#网络应用编程\ChatClient\ChatClient\obj\Debug\TaskClientWindow.g.cs
+D:\C#网络应用编程\ChatClient\ChatClient\obj\Debug\ThreadClientWindow.g.cs
+D:\C#网络应用编程\ChatClient\ChatClient\obj\Debug\MainWindow.g.cs
+D:\C#网络应用编程\ChatClient\ChatClient\obj\Debug\App.g.cs
+D:\C#网络应用编程\ChatClient\ChatClient\obj\Debug\ChatClient_MarkupCompile.cache
+D:\C#网络应用编程\ChatClient\ChatClient\obj\Debug\ChatClient.g.resources
+D:\C#网络应用编程\ChatClient\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+D:\C#网络应用编程\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.cache
+D:\C#网络应用编程\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+D:\C#网络应用编程\ChatClient\ChatClient\obj\Debug\ChatClient.exe
+D:\C#网络应用编程\ChatClient\ChatClient\obj\Debug\ChatClient.pdb
+E:\1上课\大四\聊天室\ChatClient\ChatClient\bin\Debug\ChatClient.exe.config
+E:\1上课\大四\聊天室\ChatClient\ChatClient\bin\Debug\ChatClient.exe
+E:\1上课\大四\聊天室\ChatClient\ChatClient\bin\Debug\ChatClient.pdb
+E:\1上课\大四\聊天室\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.AssemblyReference.cache
+E:\1上课\大四\聊天室\ChatClient\ChatClient\obj\Debug\TaskClientWindow.baml
+E:\1上课\大四\聊天室\ChatClient\ChatClient\obj\Debug\ThreadClientWindow.baml
+E:\1上课\大四\聊天室\ChatClient\ChatClient\obj\Debug\MainWindow.baml
+E:\1上课\大四\聊天室\ChatClient\ChatClient\obj\Debug\TaskClientWindow.g.cs
+E:\1上课\大四\聊天室\ChatClient\ChatClient\obj\Debug\ThreadClientWindow.g.cs
+E:\1上课\大四\聊天室\ChatClient\ChatClient\obj\Debug\MainWindow.g.cs
+E:\1上课\大四\聊天室\ChatClient\ChatClient\obj\Debug\App.g.cs
+E:\1上课\大四\聊天室\ChatClient\ChatClient\obj\Debug\ChatClient_MarkupCompile.cache
+E:\1上课\大四\聊天室\ChatClient\ChatClient\obj\Debug\ChatClient.g.resources
+E:\1上课\大四\聊天室\ChatClient\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+E:\1上课\大四\聊天室\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.cache
+E:\1上课\大四\聊天室\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+E:\1上课\大四\聊天室\ChatClient\ChatClient\obj\Debug\ChatClient.exe
+E:\1上课\大四\聊天室\ChatClient\ChatClient\obj\Debug\ChatClient.pdb
